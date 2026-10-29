@@ -3,9 +3,8 @@
 
 I've been tinkering with LLMs and AI agents in my spare time. One thing led to another, and I ended up building a few little side projects. Some even work! 😄
 
-Here's what I've been up to:
+### 🧠 What I've Been Cooking
 ---
-### 🧠 What I've Been Cooking (My AI Playground)
 
 Explore my public AI projects below. These projects feature live cloud-deployed apps and short video overviews (around one minute each) with English commentary.
 

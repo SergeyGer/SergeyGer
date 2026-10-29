@@ -34,9 +34,9 @@ Explore my public AI projects below. These projects feature live cloud-deployed 
 - **Explore:** [🚀 Live Demo](https://derivlab-pavyratzrx7won9iv4zmcg.streamlit.app/) [▶ Watch Video](https://github.com/SergeyGer/DerivLab/blob/main/docs/demo/derivlab-ai-arena.mp4)
 
 ---
-### 💬 Let's Connect
 
-Interested in multi-agent architectures, open-source collaboration, or AI product development? Feel free to reach out.
+### 🤝 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/sergeger](https://www.linkedin.com/in/sergeger/)
-- **Email:** `sergey.gerasimov@hotmail.com`
+Interested in AI agents, open source, or just swapping ideas? Feel free to reach out.
+
+[💼 LinkedIn](https://www.linkedin.com/in/sergeger/) · [✉️ Email](mailto:sergey.gerasimov@hotmail.com)

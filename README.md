@@ -1,49 +1,54 @@
 # Hi there, I'm Sergey Gerasimov 👋
-### Senior Product Owner / IT Project Manager & Agentic AI Architect
-📍 Based in Berlin, Germany 🇩🇪 | 🚀 Open to new professional challenges
+### IT Pro by Day, Agentic AI Wrangler by Night ☕✨
 
-Experienced IT professional (15+ years) shifting the paradigms of business automation through **Agentic AI & Autonomous Multi-Agent Systems**. I combine deep product management expertise with a passion for building production-ready AI solutions.
+I have spent a number of years navigating the tech ecosystem, managing complex IT projects and building products. But lately, I’ve been heavily spending my free time talking to LLMs and designing autonomous multi-agent systems. 
 
----
-
-### 🛠️ Tech Stack & Competencies
-
-![Python](https://shields.io)
-![LangChain](https://shields.io)
-![FastAPI](https://shields.io)
-![Redis](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
-
-*   **AI & Agents:** LLMs, Agentic Workflows, Multi-Agent Systems, Autonomous Decision Engines.
-*   **Product Delivery:** Product Strategy, Technical Architecture, Agile/Scrum, B2B SaaS Launch.
+Instead of keeping these pet projects locked away in my private storage, I open-source them. I truly hope they can help someone automate their daily boring tasks, save some computing costs, or inspire completely new agentic ideas! Feel free to fork, break, or use them as a starting point.
 
 ---
 
-### 🚀 Featured Agentic AI Projects (Pinned)
+### 🧠 What I've Been Cooking (My AI Playground)
 
-#### 🤖 [duedil-agent](https://github.com) – Venture Screening Platform
-*   **What it does:** Automates startup due diligence by cross-checking metrics with real-time web data to generate audit-ready investment memos.
-*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/demo.mp4?raw=true)
+Here are the public repositories I'm currently proud of. Every project features a live cloud-deployed app and an **80-second video overview with English commentary** so you can explore them instantly.
 
-#### 📊 [AlphaAgent](https://github.com) – Autonomous Portfolio Management
-*   **What it does:** Combines adversarial agent research with a strict, deterministic risk engine for verifiable trade decisions.
-*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/demo-walkthrough.mp4?raw=true)
+#### 🤖 [duedil-agent](https://github.com/SergeyGer/duedil-agent) – Venture Screening Platform
+*   **The Idea:** Because manually analyzing startups is too slow. This platform cross-checks VC metrics with real-time web data.
+*   **What it yields:** Audit-ready investment memos in seconds.
+*   **Explore:** [![Live Demo](https://shields.io🚀-blue?style=flat-square)](https://duedil-agent-cnrm2wvfew6nstsu2tpsvh.streamlit.app/) [![Watch 80s Video](https://shields.io)](https://github.com)
+
+#### 📊 [AlphaAgent](https://github.com/SergeyGer/AlphaAgent) – Autonomous Portfolio Management
+*   **The Idea:** Let's see what happens when adversarial agents battle it out inside a strict, deterministic risk engine.
+*   **What it yields:** 100% verifiable trading decisions with zero human panic attacks.
+*   **Explore:** [![Live Demo](https://shields.io🚀-blue?style=flat-square)](https://alphaagent-6stcj667tqeawiupedhygh.streamlit.app/) [![Watch 80s Video](https://shields.io)](https://github.com)
 
 #### 💼 [SOWSprint.ai](https://github.com) – Autonomous B2B Automation Desk
-*   **What it does:** Transforms raw B2B requirements into compliance-audited Statements of Work and deployable agile backlogs in minutes.
-*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/demo.mp4?raw=true)
+*   **The Idea:** Nobody likes writing enterprise compliance documents manually. This multi-agent desk fixes that.
+*   **What it yields:** Transforms raw B2B requirements into fully audited Statements of Work and deployable agile backlogs in minutes.
+*   **Explore:** [![Live Demo](https://shields.io🚀-blue?style=flat-square)](https://sowsprintai-tr52wy95c3da5fg2ewqwj3.streamlit.app/) [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/demo.mp4?raw=true)
 
-#### 🧪 [InSilicoTrial_MAS](https://github.com) – Agentic AI for Clinical Trials
-*   **What it does:** Runs protocol simulation on synthetic digital-twin patient cohorts to detect safety signals and cut costs.
-*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/insilico-trial-demo.mp4?raw=true)
+#### 🧪 [InSilicoTrial_MAS](https://github.com/SergeyGer/InSilicoTrial_MAS) – Agentic AI for Clinical Trials
+*   **The Idea:** Running simulation protocols on synthetic digital-twin patient cohorts to see how they behave.
+*   **What it yields:** Early drug safety signal detection, aiming to cut real-world clinical trial costs.
+*   **Explore:** [![Live Demo](https://shields.io🚀-blue?style=flat-square)](https://sergeyger.github.io/InSilicoTrial_MAS/) [![Watch 80s Video](https://shields.io)](https://github.com)
 
-#### 📈 [DerivLab](https://github.com) – Interactive Options Trading Simulator
-*   **What it does:** Uses multi-agent AI desks to gamify quantitative finance education and backtest market regimes.
-*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/demo/derivlab-ai-arena.mp4?raw=true)
+#### 📈 [DerivLab](https://github.com/SergeyGer/DerivLab) – Interactive Options Trading Simulator
+*   **The Idea:** Gamifying complex quantitative finance concepts through multi-agent trading desks.
+*   **What it yields:** A sandboxed playground to backtest market regimes and manage drawdowns against three autonomous AI desks.
+*   **Explore:** [![Live Demo](https://shields.io🚀-blue?style=flat-square)](https://derivlab-pavyratzrx7won9iv4zmcg.streamlit.app/) [![Watch 80s Video](https://shields.io)](https://github.com)
 
 ---
 
-### 📫 Connect with Me
+### ⚙️ Current Stack & Toys
+```text
+Languages & Frameworks:  Python, FastAPI, LangChain, Autogen, CrewAI
+Infrastructure & Tools:  Docker, Redis, Git, GitHub Actions, Linux
+Main Fuel Source:        Freshly brewed coffee ☕
+```
+
+---
+
+### 💬 Let's Connect
+Whether you want to discuss multi-agent architectures, collaborate on an open-source tool, build a new product, or just share a good AI prompt engineering meme — my inbox is open!
+
 *   **LinkedIn:** [linkedin.com/in/sergeger](https://www.linkedin.com/in/sergeger/)
-*   **GitHub:** You are already here! Let's build something impactful together.
+*   **Email:** `sergey.gerasimov@hotmail.com`

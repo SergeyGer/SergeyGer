@@ -1,10 +1,9 @@
 # Hi there, I'm Serge 👋
 ### 🐛🤖 Still Debugging. Now with AI Agents.
 
-I have spent years navigating the tech ecosystem, managing complex IT projects and building products. Lately, I've been spending much of my free time experimenting with LLMs and designing autonomous multi-agent systems.
+I've been tinkering with LLMs and AI agents in my spare time. One thing led to another, and I ended up building a few little side projects. Some even work! 😄
 
-Rather than keeping these projects private, I open-source them. I hope they help others automate repetitive tasks, reduce computing costs, or inspire new agentic ideas. Feel free to explore, fork, or build on them.
-
+Here's what I've been up to:
 ---
 ### 🧠 What I've Been Cooking (My AI Playground)
 

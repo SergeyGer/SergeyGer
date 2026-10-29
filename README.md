@@ -22,25 +22,25 @@ Experienced IT professional (15+ years) shifting the paradigms of business autom
 
 ### 🚀 Featured Agentic AI Projects (Pinned)
 
-#### 🤖 [duedil-agent](https://github.com/SergeyGer/duedil-agent) – Venture Screening Platform
-*   **What it does:** Automates startup due diligence by cross-checking metrics with real-time web data.
-*   **Business Value:** Generates audit-ready investment memos in seconds for VCs and analysts.
+#### 🤖 [duedil-agent](https://github.com) – Venture Screening Platform
+*   **What it does:** Automates startup due diligence by cross-checking metrics with real-time web data to generate audit-ready investment memos.
+*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/demo.mp4?raw=true)
 
-#### 📊 [AlphaAgent](https://github.com/SergeyGer/AlphaAgent) – Portfolio Management System
-*   **What it does:** Autonomous AI investment system combining adversarial research with deterministic risk engines.
-*   **Business Value:** Ensures 100% verifiable trading decisions with zero human bias.
+#### 📊 [AlphaAgent](https://github.com) – Autonomous Portfolio Management
+*   **What it does:** Combines adversarial agent research with a strict, deterministic risk engine for verifiable trade decisions.
+*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/demo-walkthrough.mp4?raw=true)
 
-#### 💼 [SOWSprint.ai](https://github.com/SergeyGer/SOWSprint.ai) – B2B Automation Desk
-*   **What it does:** Transforms raw B2B requirements into compliance-audited Statements of Work.
-*   **Business Value:** Generates complete deployable agile backlogs in minutes.
+#### 💼 [SOWSprint.ai](https://github.com) – Autonomous B2B Automation Desk
+*   **What it does:** Transforms raw B2B requirements into compliance-audited Statements of Work and deployable agile backlogs in minutes.
+*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/demo.mp4?raw=true)
 
-#### 🧪 [InSilicoTrial_MAS](https://github.com/SergeyGer/InSilicoTrial_MAS) – Digital Clinical Trials
-*   **What it does:** Simulates complex medical protocols on synthetic digital-twin patient cohorts.
-*   **Business Value:** Detects drug safety signals early, massively cutting clinical trial costs.
+#### 🧪 [InSilicoTrial_MAS](https://github.com) – Agentic AI for Clinical Trials
+*   **What it does:** Runs protocol simulation on synthetic digital-twin patient cohorts to detect safety signals and cut costs.
+*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/media/insilico-trial-demo.mp4?raw=true)
 
-#### 📈 [DerivLab](https://github.com/SergeyGer/DerivLab) – Quant Trading Simulator
-*   **What it does:** Gamified options and futures trading environment powered by multi-agent AI desks.
-*   **Business Value:** Backtests real-world market regimes for quantitative finance education.
+#### 📈 [DerivLab](https://github.com) – Interactive Options Trading Simulator
+*   **What it does:** Uses multi-agent AI desks to gamify quantitative finance education and backtest market regimes.
+*   **Demo:** [![Watch 80s Video](https://shields.io)](https://github.com/blob/main/docs/demo/derivlab-ai-arena.mp4?raw=true)
 
 ---
 

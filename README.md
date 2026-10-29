@@ -38,7 +38,7 @@ Experienced IT professional (15+ years) shifting the paradigms of business autom
 *   **What it does:** Simulates complex medical protocols on synthetic digital-twin patient cohorts.
 *   **Business Value:** Detects drug safety signals early, massively cutting clinical trial costs.
 
-#### 📈 [DerivLab](https://github.com) – Quant Trading Simulator
+#### 📈 [DerivLab](https://github.com/SergeyGer/DerivLab) – Quant Trading Simulator
 *   **What it does:** Gamified options and futures trading environment powered by multi-agent AI desks.
 *   **Business Value:** Backtests real-world market regimes for quantitative finance education.
 

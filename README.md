@@ -1,5 +1,5 @@
 # Hi there, I'm Serge 👋
-### IT Pro by Day, Agentic AI Wrangler by Night ☕✨
+### 🐛🤖 Still Debugging. Now with AI Agents.
 
 I have spent years navigating the tech ecosystem, managing complex IT projects and building products. Lately, I've been spending much of my free time experimenting with LLMs and designing autonomous multi-agent systems.
 

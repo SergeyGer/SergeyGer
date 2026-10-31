@@ -3,7 +3,9 @@
 
 ### 🐛🤖 Still Debugging. Now with AI Agents.
 
-I've been tinkering with LLMs and AI agents in my spare time. One thing led to another, and I ended up building a few little side projects. Some even work! 😄
+I've been tinkering with LLMs and AI agents in my spare time. One thing led to another, and I ended up building a few little side projects. 
+
+If any of these projects — or even just an idea from one of them — proves useful to someone, I'll be happy.
 
 ### 🧠 What I've Been Cooking
 

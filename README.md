@@ -26,9 +26,6 @@ Explore my public AI projects below. Each project includes a short video walkthr
 
 ---
 
-
----
-
 ### 🤝 Let's Connect
 
 Interested in AI agents, open source, or just swapping ideas? Feel free to reach out.

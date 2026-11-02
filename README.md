@@ -11,8 +11,6 @@ If any of these projects — or even just an idea from one of them — proves us
 
 ### 🧠 What I've Been Cooking
 
----
-
 Explore my public AI projects below. Each project includes a short video walkthrough; live demos are available for selected projects.
 
 | Project | Product Challenge | What It Does | Explore |

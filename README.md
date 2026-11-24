@@ -29,4 +29,4 @@ Explore my public AI projects below. Each project includes a short video walkthr
 
 Interested in AI agents, open source, or just swapping ideas? Feel free to reach out.
 
-[💼 LinkedIn](https://www.linkedin.com/in/sergeger/) · [✉️ Email](mailto:sergey.gerasimov@hotmail.com)
+[![Facebook](https://shields.io)](https://www.facebook.com/sergerasimov) · [✉️ Email](mailto:sergey.gerasimov@hotmail.com)

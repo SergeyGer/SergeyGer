@@ -29,4 +29,4 @@ Explore my public AI projects below. Each project includes a short video walkthr
 
 Interested in AI agents, open source, or just swapping ideas? Feel free to reach out.
 
-[👥 Facebook](https://www.facebook.com/sergerasimov) · [✉️ Email](mailto:sergey.gerasimov@hotmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/sergeger/) · [👥 Facebook](https://www.facebook.com/sergerasimov) · [✉️ Email](mailto:sergey.gerasimov@hotmail.com)
